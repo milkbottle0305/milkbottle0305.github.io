@@ -3,7 +3,7 @@
 layout: post
 title: 자료구조 1장 - Unsorted List & Sorted List
 date: 2022-04-16 10:32:23 +0900
-category: 자료구조
+category: DataStructure
 ---
 # Unsorted List & Sorted List
 c++에서 배열(array)이라는 자료형을 자주 사용했다. 하지만 c++에서는 배열의 크기를 따로 계산하지 않고, index check도 하지 않아서 out of range도 발생하고 불편한 점이 많다.
